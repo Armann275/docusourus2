@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# ՍՏԵՂԾԱԳՈՐԾՈՒԹԵԱՆ ՊԱՏՄՈՒԹԻՒՆԸ
-sddsdsdsdsdsdsdsdsdsdsdsdsdsds
+## ՍՏԵՂԾԱԳՈՐԾՈՒԹԵԱՆ ՊԱՏՄՈՒԹԻՒՆԸ
+aaaaaaaaaaaaaaaaaaaaaaaa
 
 <!-- # Porcarkum -->
 
