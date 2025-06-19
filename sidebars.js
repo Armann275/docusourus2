@@ -1340,7 +1340,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "01ԵԼՔ",
+            "label": "ԵԼՔ",
             "items": [
               {
                 "type": "category",
@@ -1657,7 +1657,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "02ՂԵՒՏԱԿԱՆ",
+            "label": "ՂԵՒՏԱԿԱՆ",
             "items": [
               {
                 "type": "category",
@@ -1875,7 +1875,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "03ԹՈՒԵՐ",
+            "label": "ԹՈՒԵՐ",
             "items": [
               {
                 "type": "category",
@@ -2180,7 +2180,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "04ԵՐԿՐՈՐԴ ՕՐԷՆՔ",
+            "label": "ԵՐԿՐՈՐԴ ՕՐԷՆՔ",
             "items": [
               {
                 "type": "category",
@@ -2471,7 +2471,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "05ՆԱՒԷԻ ՈՐԴԻ ՅԵՍՈՒԻ ԳԻՐՔԸ",
+            "label": "ՆԱՒԷԻ ՈՐԴԻ ՅԵՍՈՒԻ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -2671,7 +2671,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "06ԴԱՏԱՒՈՐՆԵՐ",
+            "label": "ԴԱՏԱՒՈՐՆԵՐ",
             "items": [
               {
                 "type": "category",
@@ -2845,7 +2845,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "07ՀՌՈՒԹ",
+            "label": "ՀՌՈՒԹ",
             "items": [
               {
                 "type": "category",
@@ -2882,7 +2882,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "08ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Ա",
+            "label": "ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Ա",
             "items": [
               {
                 "type": "category",
@@ -3126,7 +3126,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "09ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Բ",
+            "label": "ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Բ",
             "items": [
               {
                 "type": "category",
@@ -3327,7 +3327,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "10ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Գ",
+            "label": "ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Գ",
             "items": [
               {
                 "type": "category",
@@ -3537,7 +3537,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "11ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Դ",
+            "label": "ԹԱԳԱՒՈՐՈՒԹԻՒՆՆԵՐ Դ",
             "items": [
               {
                 "type": "category",
@@ -3768,7 +3768,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "12ԱՌԱՋԻՆ ՄՆԱՑՈՐԴԱՑ",
+            "label": "ԱՌԱՋԻՆ ՄՆԱՑՈՐԴԱՑ",
             "items": [
               {
                 "type": "category",
@@ -4022,7 +4022,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "13ԵՐԿՐՈՐԴ ՄՆԱՑՈՐԴԱՑ",
+            "label": "ԵՐԿՐՈՐԴ ՄՆԱՑՈՐԴԱՑ",
             "items": [
               {
                 "type": "category",
@@ -4336,7 +4336,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "14ԵԶՐԱՍԻ ԱՌԱՋԻՆ ԳԻՐՔԸ",
+            "label": "ԵԶՐԱՍԻ ԱՌԱՋԻՆ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -4410,7 +4410,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "15ԵԶՐԱՍԻ ԵՐԿՐՈՐԴ ԳԻՐՔԸ",
+            "label": "ԵԶՐԱՍԻ ԵՐԿՐՈՐԴ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -4494,7 +4494,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "16ՆԷԵՄԻԻ ԳԻՐՔԸ",
+            "label": "ՆԷԵՄԻԻ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -4593,7 +4593,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "17ԵՍԹԵՐԻ ԳԻՐՔԸ",
+            "label": "ԵՍԹԵՐԻ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -4671,7 +4671,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "18ՅՈՒԴԻԹ474",
+            "label": "ՅՈՒԴԻԹ474",
             "items": [
               {
                 "type": "category",
@@ -4786,7 +4786,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "19ՏՈԲԻԹ",
+            "label": "ՏՈԲԻԹ",
             "items": [
               {
                 "type": "category",
@@ -4897,7 +4897,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "20ՄԱԿԱԲԱՅԵՑԻՆԵՐԻ ԱՌԱՋԻՆ ԳԻՐՔԸ",
+            "label": "ՄԱԿԱԲԱՅԵՑԻՆԵՐԻ ԱՌԱՋԻՆ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -5060,7 +5060,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "21ՄԱԿԱԲԱՅԵՑԻՆԵՐԻ ԵՐԿՐՈՐԴ ԳԻՐՔԸ",
+            "label": "ՄԱԿԱԲԱՅԵՑԻՆԵՐԻ ԵՐԿՐՈՐԴ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -5204,7 +5204,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "22ՄԱԿԱԲՅԵՑԻՆԵՐԻ ԵՐՐՈՐԴ ԳԻՐՔԸ",
+            "label": "ՄԱԿԱԲՅԵՑԻՆԵՐԻ ԵՐՐՈՐԴ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -5264,7 +5264,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "23ԴԱՒԹԻ ՍԱՂՄՈՍՆԵՐԻ ԳԻՐՔԸ",
+            "label": "ԴԱՒԹԻ ՍԱՂՄՈՍՆԵՐԻ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -6309,7 +6309,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "24ԱՌԱԿՆԵՐ",
+            "label": "ԱՌԱԿՆԵՐ",
             "items": [
               {
                 "type": "category",
@@ -6429,7 +6429,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "25ԺՈՂՈՎՈՂ",
+            "label": "ԺՈՂՈՎՈՂ",
             "items": [
               {
                 "type": "category",
@@ -6502,7 +6502,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "26ԵՐԳ ԵՐԳՈՑ",
+            "label": "ԵՐԳ ԵՐԳՈՑ",
             "items": [
               {
                 "type": "category",
@@ -6559,7 +6559,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "27ԻՄԱՍՏՈՒԹԻՒՆ ՍՈՂՈՄՈՆԻ",
+            "label": "ԻՄԱՍՏՈՒԹԻՒՆ ՍՈՂՈՄՈՆԻ",
             "items": [
               {
                 "type": "category",
@@ -6704,7 +6704,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "28ՅԵՍՈՒԻ ՈՐԴԻ ՍԻՐԱՔԻ ԻՄԱՍՏՈՒԹԻՒՆԸ",
+            "label": "ՅԵՍՈՒԻ ՈՐԴԻ ՍԻՐԱՔԻ ԻՄԱՍՏՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -7031,7 +7031,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "29ՅՈԲԻ ԳԻՐՔԸ",
+            "label": "ՅՈԲԻ ԳԻՐՔԸ",
             "items": [
               {
                 "type": "category",
@@ -7287,7 +7287,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "30ԵՍԱՅՈՒ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԵՍԱՅՈՒ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -7824,7 +7824,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "31ՕՍԷԷԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ՕՍԷԷԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -7938,7 +7938,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "32ԱՄՈՍԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԱՄՈՍԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8007,7 +8007,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "33ՄԻՔԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ՄԻՔԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8069,7 +8069,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "34ՅՈՎԷԼԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ՅՈՎԷԼԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8102,7 +8102,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "35ԱԲԴԻՈՒԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԱԲԴԻՈՒԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8118,7 +8118,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "36ՅՈՎՆԱՆԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ՅՈՎՆԱՆԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8152,7 +8152,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "37ՆԱՒՈՒՄԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ՆԱՒՈՒՄԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8211,7 +8211,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "39ՍՈՓՈՆԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ՍՈՓՈՆԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8244,7 +8244,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "40ԱՆԳԷԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԱՆԳԷԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8268,7 +8268,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "41ԶԱՔԱՐԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԶԱՔԱՐԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8385,7 +8385,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "42ՄԱՂԱՔԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆՅԸ",
+            "label": "ՄԱՂԱՔԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆՅԸ",
             "items": [
               {
                 "type": "category",
@@ -8422,7 +8422,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "43ԵՐԵՄԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԵՐԵՄԻԱՅԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -8862,7 +8862,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "44ԲԱՐՈՒՔԻ ԹՈՒՂԹԸ",
+            "label": "ԲԱՐՈՒՔԻ ԹՈՒՂԹԸ",
             "items": [
               {
                 "type": "category",
@@ -8899,7 +8899,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "45ՍՈՒՐԲ ԵՐԵՄԻԱ ՄԱՐԳԱՐԷԻ ՈՂԲԸ",
+            "label": "ՍՈՒՐԲ ԵՐԵՄԻԱ ՄԱՐԳԱՐԷԻ ՈՂԲԸ",
             "items": [
               {
                 "type": "category",
@@ -8940,7 +8940,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "46ԴԱՆԻԷԼԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԴԱՆԻԷԼԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -9044,7 +9044,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "47ԵԶԵԿԻԷԼԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
+            "label": "ԵԶԵԿԻԷԼԻ ՄԱՐԳԱՐԷՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
@@ -9434,7 +9434,7 @@ module.exports = {
         "items": [
           {
             "type": "category",
-            "label": "00ԱՒԵՏԱՐԱՆ ԸՍՏ ՄԱՏԹԷՈՍԻ",
+            "label": "ԱՒԵՏԱՐԱՆ ԸՍՏ ՄԱՏԹԷՈՍԻ",
             "items": [
               {
                 "type": "category",
@@ -9739,7 +9739,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "01ԱՒԵՏԱՐԱՆ ԸՍՏ ՄԱՐԿՈՍԻ",
+            "label": "ԱՒԵՏԱՐԱՆ ԸՍՏ ՄԱՐԿՈՍԻ",
             "items": [
               {
                 "type": "category",
@@ -9927,7 +9927,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "02ԱՒԵՏԱՐԱՆ ԸՍՏ ՂՈՒԿԱՍԻ",
+            "label": "ԱՒԵՏԱՐԱՆ ԸՍՏ ՂՈՒԿԱՍԻ",
             "items": [
               {
                 "type": "category",
@@ -10229,7 +10229,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "03ԱՒԵՏԱՐԱՆ ԸՍՏ ՅՈՎՀԱՆՆԷՍԻ",
+            "label": "ԱՒԵՏԱՐԱՆ ԸՍՏ ՅՈՎՀԱՆՆԷՍԻ",
             "items": [
               {
                 "type": "category",
@@ -10433,7 +10433,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "04ԳՈՐԾՔ ԱՌԱՔԵԼՈՑ ՂՈՒԿԱՍ ԱՒԵՏԱՐԱՆՉԻ",
+            "label": "ԳՈՐԾՔ ԱՌԱՔԵԼՈՑ ՂՈՒԿԱՍ ԱՒԵՏԱՐԱՆՉԻ",
             "items": [
               {
                 "type": "category",
@@ -10703,7 +10703,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "05ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ՀՌՈՄԷԱՑԻՆԵՐԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ՀՌՈՄԷԱՑԻՆԵՐԻՆ",
             "items": [
               {
                 "type": "category",
@@ -10850,7 +10850,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "06ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԱՌԱՋԻՆ ԹՈՒՂԹԸ ԿՈՐՆԹԱՑԻՆԵՐԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԱՌԱՋԻՆ ԹՈՒՂԹԸ ԿՈՐՆԹԱՑԻՆԵՐԻՆ",
             "items": [
               {
                 "type": "category",
@@ -10982,7 +10982,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "07ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ ԿՈՐՆԹԱՑԻՆԵՐԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ ԿՈՐՆԹԱՑԻՆԵՐԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11086,7 +11086,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "08ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ԳԱՂԱՏԱՑԻՆԵՐԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ԳԱՂԱՏԱՑԻՆԵՐԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11144,7 +11144,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "09ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ԵՓԵՍԱՑԻՆԵՐԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ԵՓԵՍԱՑԻՆԵՐԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11327,7 +11327,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "13ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ ԹԵՍԱՂՈՆԻԿԵՑԻՆԵՐԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ ԹԵՍԱՂՈՆԻԿԵՑԻՆԵՐԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11358,7 +11358,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "14ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԱՌԱՋԻՆ ԹՈՒՂԹԸ ՏԻՄՈԹԷՈՍԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԱՌԱՋԻՆ ԹՈՒՂԹԸ ՏԻՄՈԹԷՈՍԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11415,7 +11415,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "15ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ ՏԻՄՈԹԷՈՍԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ ՏԻՄՈԹԷՈՍԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11455,7 +11455,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "16ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ՏԻՏՈՍԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ՏԻՏՈՍԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11485,7 +11485,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "17ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ՓԻԼԻՄՈՆԻՆ ԵՒ ԱՐՔԻՊՊՈՍ ՍԱՐԿԱՒԱԳԻՆ ԵՒ ԱՊՓԻԱՅԻՆ",
+            "label": "ՊՕՂՈՍ ԱՌԱՔԵԱԼԻ ԹՈՒՂԹԸ ՓԻԼԻՄՈՆԻՆ ԵՒ ԱՐՔԻՊՊՈՍ ՍԱՐԿԱՒԱԳԻՆ ԵՒ ԱՊՓԻԱՅԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11501,7 +11501,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "18ԹՈՒՂԹ ԵԲՐԱՅԵՑԻՆԵՐԻՆ",
+            "label": "ԹՈՒՂԹ ԵԲՐԱՅԵՑԻՆԵՐԻՆ",
             "items": [
               {
                 "type": "category",
@@ -11606,7 +11606,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "19ՍՈՒՐԲ ՅԱԿՈԲՈՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԹՈՒՂԹԸ",
+            "label": "ՍՈՒՐԲ ՅԱԿՈԲՈՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԹՈՒՂԹԸ",
             "items": [
               {
                 "type": "category",
@@ -11707,7 +11707,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "21ՊԵՏՐՈՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ",
+            "label": "ՊԵՏՐՈՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԵՐԿՐՈՐԴ ԹՈՒՂԹԸ",
             "items": [
               {
                 "type": "category",
@@ -11738,7 +11738,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "22ՅՈՎՀԱՆՆԷՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԱՌԱՋԻՆ ԹՈՒՂԹԸ",
+            "label": "ՅՈՎՀԱՆՆԷՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԱՌԱՋԻՆ ԹՈՒՂԹԸ",
             "items": [
               {
                 "type": "category",
@@ -11802,7 +11802,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "24ՅՈՎՀԱՆՆԷՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԵՐՐՈՐԴ ԹՈՒՂԹԸ",
+            "label": "ՅՈՎՀԱՆՆԷՍ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԵՐՐՈՐԴ ԹՈՒՂԹԸ",
             "items": [
               {
                 "type": "category",
@@ -11818,7 +11818,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "25ՅՈՒԴԱ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԹՈՒՂԹԸ",
+            "label": "ՅՈՒԴԱ ԱՌԱՔԵԱԼԻ ԸՆԴՀԱՆՐԱԿԱՆ ԹՈՒՂԹԸ",
             "items": [
               {
                 "type": "category",
@@ -11833,7 +11833,7 @@ module.exports = {
           },
           {
             "type": "category",
-            "label": "26ՍՈՒՐԲ ՅՈՎՀԱՆՆԷՍ ԱՌԱՔԵԱԼԻ ԵՒ ԱՍՏՈՒԱԾԱԲԱՆ ԱՒԵՏԱՐԱՆՉԻ ՅԱՅՏՆՈՒԹԻՒՆԸ",
+            "label": "ՍՈՒՐԲ ՅՈՎՀԱՆՆԷՍ ԱՌԱՔԵԱԼԻ ԵՒ ԱՍՏՈՒԱԾԱԲԱՆ ԱՒԵՏԱՐԱՆՉԻ ՅԱՅՏՆՈՒԹԻՒՆԸ",
             "items": [
               {
                 "type": "category",
