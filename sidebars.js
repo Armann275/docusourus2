@@ -940,7 +940,7 @@ module.exports = {
         "items": [
           {
             "type": "category",
-            "label": "00ԳԻՐՔ ԾՆՆԴՈՑ",
+            "label": "ԳԻՐՔ ԾՆՆԴՈՑ",
             "items": [
               {
                 "type": "category",
